@@ -1,0 +1,6 @@
+port: 8080
+address: localhost
+db_address: localhost:5432
+db_user: akaflieg
+db_password: admin
+db: fresskasse
